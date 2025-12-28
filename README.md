@@ -17,7 +17,7 @@ Go in the example folder and run the app.py (this is usually the default name of
 ## 001_Logging_example  
 Useful logging advanced configuration for console, file rotation and json line logging using a config.json or config.yml file to setup the root logger for small to meduim sized projects.  
 
-## 002_pyprokect.toml (snakesay)  
+## 002_pyproject.toml (snakesay)  
 A demo package configured using TOML configuration file. Comes from [Real Python Packaking](https://www.youtube.com/watch?v=v6tALyc4C10) video  
 Go to folder and launch "pip installe -e ." to install the snakesay package and associated launch commands.  
 Then type "snake hello world"  
