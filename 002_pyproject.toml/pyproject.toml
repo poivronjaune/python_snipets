@@ -1,0 +1,13 @@
+# https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "snakesay"
+version = "1.0.0"
+
+[project.scripts]
+snake = "snakesay.__main__:main"
+
+
