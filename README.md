@@ -25,3 +25,6 @@ Then type "snake hello world"
 ## 003_fastapi  
 A demo scafolding project to implement fastapi core features and a schema definition. It implements a basic CRUD (no delete) to store books in a memory dictionary.  
 
+## 004_ffmpeg_webcam  
+Simple RTSP Streamer that connects to a THINGINO Camera to display images skipping some frames for older PC performance.  
+
