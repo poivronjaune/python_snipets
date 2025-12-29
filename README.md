@@ -22,4 +22,6 @@ A demo package configured using TOML configuration file. Comes from [Real Python
 Go to folder and launch "pip installe -e ." to install the snakesay package and associated launch commands.  
 Then type "snake hello world"  
 
+## 003_fastapi  
+A demo scafolding project to implement fastapi core features and a schema definition. It implements a basic CRUD (no delete) to store books in a memory dictionary.  
 
