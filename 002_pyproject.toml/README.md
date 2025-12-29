@@ -4,6 +4,11 @@
 py folder : __main__.py : converts a directory to be called directly in python  
 py -m package : Looks in path to find modular directory called package  
 
+### Dependencies
+```
+none
+```
+
 ### Python Paths 
 1) active path (current worling directory in terminal)  
 2) installed libraries  
