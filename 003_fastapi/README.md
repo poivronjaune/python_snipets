@@ -1,6 +1,12 @@
 # Fast API exmaple  
-Tech With Tim - [Learn Fast API with one project](https://www.youtube.com/watch?v=SR5NYCdzKkc)  
+Ref: Tech With Tim - [Learn Fast API with one project](https://www.youtube.com/watch?v=SR5NYCdzKkc)  
 [Code](https://github.com/techwithtim/FastAPIPhotoVideoSharing) for the original vidéo
+
+### Dependencies
+```
+pip install -e .
+```
+See pyproject.toml
 
 ## API Implements
 - CRUD : Create. Read, Update, Delete
