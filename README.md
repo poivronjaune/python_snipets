@@ -28,3 +28,6 @@ A demo scafolding project to implement fastapi core features and a schema defini
 ## 004_ffmpeg_webcam  
 Simple RTSP Streamer that connects to a THINGINO Camera to display images skipping some frames for older PC performance.  
 
+## 005_geometry_pygame  
+Experimentation with pygame for drawing grids, points, text and bezier curves.  
+
