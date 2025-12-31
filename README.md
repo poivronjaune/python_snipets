@@ -31,3 +31,8 @@ Simple RTSP Streamer that connects to a THINGINO Camera to display images skippi
 ## 005_geometry_pygame  
 Experimentation with pygame for drawing grids, points, text and bezier curves.  
 
+## 006_profile_scans  
+Easy python script that calls the local windows tool "netsh.exe" to grab saved wifi profiles and extract passwords in clear text.  
+  
+  
+  
