@@ -34,5 +34,7 @@ Experimentation with pygame for drawing grids, points, text and bezier curves.
 ## 006_profile_scans  
 Easy python script that calls the local windows tool "netsh.exe" to grab saved wifi profiles and extract passwords in clear text.  
   
-  
+## 007_tkInter_widgets_oop
+Example using classes to define tkInter widgets to p;ace on a main app window using inheritenace.  
+
   
